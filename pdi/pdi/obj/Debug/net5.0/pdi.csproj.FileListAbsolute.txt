@@ -1,0 +1,16 @@
+C:\Users\alexandre.sgoncalves\Desktop\pdi\pdi\bin\Debug\net5.0\pdi.exe
+C:\Users\alexandre.sgoncalves\Desktop\pdi\pdi\bin\Debug\net5.0\pdi.deps.json
+C:\Users\alexandre.sgoncalves\Desktop\pdi\pdi\bin\Debug\net5.0\pdi.runtimeconfig.json
+C:\Users\alexandre.sgoncalves\Desktop\pdi\pdi\bin\Debug\net5.0\pdi.runtimeconfig.dev.json
+C:\Users\alexandre.sgoncalves\Desktop\pdi\pdi\bin\Debug\net5.0\pdi.dll
+C:\Users\alexandre.sgoncalves\Desktop\pdi\pdi\bin\Debug\net5.0\ref\pdi.dll
+C:\Users\alexandre.sgoncalves\Desktop\pdi\pdi\bin\Debug\net5.0\pdi.pdb
+C:\Users\alexandre.sgoncalves\Desktop\pdi\pdi\obj\Debug\net5.0\pdi.csproj.AssemblyReference.cache
+C:\Users\alexandre.sgoncalves\Desktop\pdi\pdi\obj\Debug\net5.0\pdi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandre.sgoncalves\Desktop\pdi\pdi\obj\Debug\net5.0\pdi.AssemblyInfoInputs.cache
+C:\Users\alexandre.sgoncalves\Desktop\pdi\pdi\obj\Debug\net5.0\pdi.AssemblyInfo.cs
+C:\Users\alexandre.sgoncalves\Desktop\pdi\pdi\obj\Debug\net5.0\pdi.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.sgoncalves\Desktop\pdi\pdi\obj\Debug\net5.0\pdi.dll
+C:\Users\alexandre.sgoncalves\Desktop\pdi\pdi\obj\Debug\net5.0\ref\pdi.dll
+C:\Users\alexandre.sgoncalves\Desktop\pdi\pdi\obj\Debug\net5.0\pdi.pdb
+C:\Users\alexandre.sgoncalves\Desktop\pdi\pdi\obj\Debug\net5.0\pdi.genruntimeconfig.cache
